@@ -3,8 +3,8 @@
 Autonomous VEX IQ recycling sorter that feeds, conveys, and classifies bottle caps (plastic vs. metal) using distance sensing + optical reflectivity. Designed for safe, predictable operation with single-cap processing, pause/resume emergency stop, and automatic shutdown after inactivity. Achieved >80% sorting/loading accuracy in testing.
 
 ## Demo
-- 🎥 Video: (add link here)
-- 📸 Photos: (add 2–4 photos here)
+- 🎥 Video: [YouTube Demo](https://youtu.be/PbLOYYTk2Z4)
+- 📸 Photos: [Images](media/images)
 
 ## Problem
 Manual or inconsistent sorting reduces recycling efficiency. This project demonstrates an assembly-line style approach (feeding → conveying → sorting) using VEX IQ hardware and sensor-driven automation.
