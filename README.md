@@ -69,4 +69,4 @@ Key integration checks included:
 - Two major constraints discovered through testing were **sensor delay vs. motor speed** and **ambient light sensitivity**, solved via speed tuning and a physical shade on the optical sensor.
 
 ## Credits
-Built as a team project using VEX IQ hardware. (Add team member names/roles if you want.)
+Built as a team project using VEX IQ hardware.
