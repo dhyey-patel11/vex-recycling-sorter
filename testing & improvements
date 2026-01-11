@@ -16,6 +16,6 @@
 - Sensor drift under strong ambient light
 
 ## Improvements Made
-- Added optical sensor shade
-- Switched to peak brightness sampling
-- Tuned conveyor speed for sensor delay
+Ambient light caused inconsistent readings → added shade + adjusted LED settings”
+Sensor delay caused misclassification at high speed → tuned conveyor speed”
+Two caps on belt caused jams → enforced single-cap processing”
