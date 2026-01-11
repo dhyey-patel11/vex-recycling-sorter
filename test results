@@ -1,0 +1,21 @@
+# Test Results
+
+## Summary
+- Trials: 40
+- Correct sorts: 34
+- Accuracy: 85%
+
+## Conditions Tested
+- Lighting: normal room light, bright light
+- Conveyor speed: low / medium
+- Cap placement: centered / off-center
+
+## Failure Modes Observed
+- Misread when cap entered at an angle
+- Reflectivity overlap on scratched caps
+- Sensor drift under strong ambient light
+
+## Improvements Made
+- Added optical sensor shade
+- Switched to peak brightness sampling
+- Tuned conveyor speed for sensor delay
